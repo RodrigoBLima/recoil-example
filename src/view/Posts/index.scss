@@ -1,0 +1,14 @@
+@import "./components/Form/index.scss";
+@import "./components/Post/index.scss";
+
+#posts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  .posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+}
