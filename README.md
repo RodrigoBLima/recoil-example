@@ -7,8 +7,8 @@ This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/docs/)
-- [Vite]]()
-- [Sass]()
+- [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+- [Sass](https://sass-lang.com/documentation/)
 
 ## Available Scripts
 
